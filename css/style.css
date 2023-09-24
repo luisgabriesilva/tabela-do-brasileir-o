@@ -1,0 +1,43 @@
+body{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 0 200px 0 200px;
+    font-size: 20px;
+    background-color: black;
+}
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+.clube{
+    width: 300px;
+}
+.cor{
+    background-color: green;
+    font-size: 20px;
+}
+tr{
+    border: solid 2px;
+    color: white;
+}
+td{
+    color: white;
+}
+.libertadores{
+    background-color: blue;
+    width: 1px;
+}
+.preliberta{
+    background-color: orange;
+}
+.sulamericana{
+    background-color: green;
+}
+.rebaixa{
+    background-color: red;
+}
+H1{
+    color: white;
+    text-align: center;
+}
